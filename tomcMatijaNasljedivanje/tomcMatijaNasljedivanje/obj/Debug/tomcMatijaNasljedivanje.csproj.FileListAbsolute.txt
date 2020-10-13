@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\tomcMatijaNasljedivanje\tomcMatijaNasljedivanje\bin\Debug\tomcMatijaNasljedivanje.exe.config
+C:\Users\3.D\source\repos\tomcMatijaNasljedivanje\tomcMatijaNasljedivanje\bin\Debug\tomcMatijaNasljedivanje.exe
+C:\Users\3.D\source\repos\tomcMatijaNasljedivanje\tomcMatijaNasljedivanje\bin\Debug\tomcMatijaNasljedivanje.pdb
+C:\Users\3.D\source\repos\tomcMatijaNasljedivanje\tomcMatijaNasljedivanje\obj\Debug\tomcMatijaNasljedivanje.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\tomcMatijaNasljedivanje\tomcMatijaNasljedivanje\obj\Debug\tomcMatijaNasljedivanje.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\tomcMatijaNasljedivanje\tomcMatijaNasljedivanje\obj\Debug\tomcMatijaNasljedivanje.exe
+C:\Users\3.D\source\repos\tomcMatijaNasljedivanje\tomcMatijaNasljedivanje\obj\Debug\tomcMatijaNasljedivanje.pdb
